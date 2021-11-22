@@ -1,7 +1,7 @@
 # Keymap Layout Guide
 
 ## Step 1: Edit / Create a Keyboard Layout:
-- Navigate to (this)[https://config.qmk.fm] website and either create a keyboard layout or upload the .json file found in this repo in order to use my configuration. 
+- Navigate to [this](https://config.qmk.fm) website and either create a keyboard layout or upload the .json file found in this repo in order to use my configuration. 
 - After you're finished, hit compile and then download the firmware as a .hex file.  My firmware is found in the .hex file in this repo
 
 ## Step 2: Flash the firmware onto the keyboard
